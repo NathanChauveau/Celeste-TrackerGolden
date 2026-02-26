@@ -1,6 +1,9 @@
 # Celeste-TrackerGolden
 The goal of this project is to give a way to track your runs during an attemp of a golden strawberry on Celeste
 
+This project will take quite a lot of time, it is also my 1st personal project that i'll do completely alone.
+It will serve as a traning for me :)
+
 ## Functionnality 
 You'll be able to :
 - Create your account
