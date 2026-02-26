@@ -22,22 +22,10 @@ To defined
 ## Deploy
 
 ### Dev env.
-Soyez bien à l'intérieur du dossier MA-METIER_site_enfants
-Pour installer les dépendences :
-```shell
-npm install
-```
-Pour build :
-```shell
-npm run build
-```
-Pour lancer les serveurs:
-```shell
-# Back-end
-node server.js
-# Front-end
-npm run dev
-```
+
+
+### Prod env.
+
 ## Structure of the project
 
 ```shell
