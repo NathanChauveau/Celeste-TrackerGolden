@@ -3,8 +3,9 @@ The goal of this project is to give a way to track your runs during an attemp of
 
 ## Functionnality 
 You'll be able to :
-- Save a run with time and death
-- Delete runs you deemed unecessarly
+- Create your account
+- Save a run with the time and total of death
+- Delete runs you deemed not useful
 - See which run are the best on time, low death, and in both category
 - You'll be able to add your own map by adding the image of each room
 - Ping a room on the map where you went the furthest with the golden berry
